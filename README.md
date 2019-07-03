@@ -1,4 +1,4 @@
-# GAA -GatewayApplicationArchitecture-
+# GAA -Gateway Application Architecture-
 
 ## 개발 목표
  1. 모니터링 구축
