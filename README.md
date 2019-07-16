@@ -24,6 +24,6 @@
 ### 원격 제어
 
 ## 레퍼런스
-  [아프로스 게이트웨이 개발정의서 [Create by 박은찬]](Docs/APROS_GATEWAY_APPLICATION_개발기능정의.pdf)<br>
+  [아프로스 게이트웨이 개발정의서 [Create by 박은천]](Docs/APROS_GATEWAY_APPLICATION_개발기능정의.pdf)<br>
 
 ## 기타
